@@ -1,6 +1,6 @@
 # Weekly_Credit_Card_Financial_Data_Analytics_Dashboard_made_with_-SQL-and-PowerBI-
 It is a real time dashboard for weekly analysis on credit card financial dashboard that focuses on credit card users information which can be updated in real time.
-This **Real-Time Credit Card Financial Dashboard** is built using **MS SQL** for data modeling and connected to **Power BI** as a data pipeline, enabling real-time updates. The dashboard is designed for in-depth weekly analysis of credit card user data and financial performance, offering a comprehensive view of key metrics and insights.
+This **Real-Time Credit Card Financial Dashboard** is built using **MS SQL** for data modeling and connected to **Power BI** as a data pipeline, enabling real-time updates. The dashboard is designed for in-depth weekly analysis of credit card user data and financial performance, offering a comprehensive view of key metrics and insights. It is in two parts (Pages). The first page focuses on the credit card report and the second page focuses on the credit card report with respect to customers (users) in a sycronized manner.
 ![Screenshot 2024-11-28 143402](https://github.com/user-attachments/assets/067ba23b-dd88-4c31-ab72-eb5c4a40d720)
 ![Screenshot 2024-11-28 144751](https://github.com/user-attachments/assets/5f87a409-c438-44b7-8774-a64e465bc243)
 
